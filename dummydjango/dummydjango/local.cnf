@@ -1,0 +1,6 @@
+# my.cnf
+[client]
+database = ehm_dummy
+user = root
+password = password
+default-character-set = utf8
